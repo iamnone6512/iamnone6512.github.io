@@ -6,7 +6,11 @@
 
 
 ```sql
-SELECT BLOCK_DATE,pair, 
+d
+  WHERE block_date BETWEEN '2021-04-01' AND '2021-06-30'
+) A 
+group by 1,2 order by 1,2
+```SELECT BLOCK_DATE,pair, 
   count(distinct transaction_id) as txn_count,
   count(distinct wallet_address) as user_cnt 
 from (SELECT msgs.block_timestamp::DATE as BLOCK_DATE,
@@ -28,6 +32,7 @@ from (SELECT msgs.block_timestamp::DATE as BLOCK_DATE,
   AND upper(label)='TERRASWAP' 
   and UPPER(label_subtype) ='POOL'
   AND upper(msgs.key)= 'SWAP'
+  AND UPPER(msgs.tx_status)='SUCCEEDED'
   INNER JOIN (SELECT tx_id,src.value:amount as inp_amount,src.value:denom as inp_currency,
   fee.value:amount as fee_amount,fee.value:denom as fee_currency,
   tgt.value:amount as tgt_amount,tgt.value:denom as tgt_currency
@@ -42,3 +47,5 @@ from (SELECT msgs.block_timestamp::DATE as BLOCK_DATE,
 ) A 
 group by 1,2 order by 1,2
 ```
+
+Link to Query : https://app.flipsidecrypto.com/velocity/queries/7a5099db-f7be-4d74-a511-77697077cdad
