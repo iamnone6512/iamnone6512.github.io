@@ -45,3 +45,42 @@ group by 1,2 order by 1,2
 ```
 
 Link to Query : https://app.flipsidecrypto.com/velocity/queries/7a5099db-f7be-4d74-a511-77697077cdad
+
+```json
+MsgExecuteContract
+coins
+{ "denom": "uluna", "amount": "1000000" }
+
+sender
+contract
+Terraswap LUNA-UST Pair
+execute_msg
+{
+  "swap": {
+    "offer_asset": {
+      "amount": "1000000",
+      "info": {
+        "native_token": {
+          "denom": "uluna"
+        }
+      }
+    }
+  }
+}
+```
+
+```json
+[3] transfer
+recipient	
+Terraswap LUNA-UST Pair
+sender	
+amount	1000000uluna
+recipient	
+sender	
+Terraswap LUNA-UST Pair
+amount	20721uusd
+recipient	
+sender	
+Terraswap LUNA-UST Pair
+amount	5471814uusd
+```
