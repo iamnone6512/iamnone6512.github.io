@@ -6,11 +6,7 @@
 
 
 ```sql
-d
-  WHERE block_date BETWEEN '2021-04-01' AND '2021-06-30'
-) A 
-group by 1,2 order by 1,2
-```SELECT BLOCK_DATE,pair, 
+SELECT BLOCK_DATE,pair, 
   count(distinct transaction_id) as txn_count,
   count(distinct wallet_address) as user_cnt 
 from (SELECT msgs.block_timestamp::DATE as BLOCK_DATE,
