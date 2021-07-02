@@ -84,3 +84,4 @@ sender
 Terraswap LUNA-UST Pair
 amount	5471814uusd
 ```
+Link to tx:https://finder.terra.money/columbus-4/tx/4634FD40B67BBAFFC14EA64BB15A97C9B8B67AC8EF994957B782DAAFA558E501
