@@ -28,4 +28,7 @@ Link to Query : https://app.flipsidecrypto.com/velocity/queries/deb8a749-ae67-49
 Link to Sample Tansaction : https://finder.terra.money/columbus-4/tx/E53C5A191EF241B420B24CBEEFFF180FF2F54CD6163881D4739D1564245BE77B
 
 
+https://docs.anchorprotocol.com/smart-contracts/liquidations/liquidation-contract
+
+
 ![Screen Shot 2021-07-02 at 5 17 09 PM](https://user-images.githubusercontent.com/86668287/124346339-d878c600-dbfb-11eb-99ee-25df2f7ca690.png)
