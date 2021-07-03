@@ -8,7 +8,7 @@ The dashboard shows the volume of swaps in TerraSwap for the period from April t
 
 
 #### Developer Notes  
-The 
+We decode the msg_value from terra.messages for TerraSwap swap transactions and build the volumes from it. The below SQL also attempted to decode the swap and fee values. The logic for prices in USD needs to be added to get the swap values in USD. WIP.
 
 
 ##### SQL 
