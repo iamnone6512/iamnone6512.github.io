@@ -5,7 +5,7 @@ Here we take a look into liquidations that has happened on Anchor portocol betwe
 
 Below dashboard shows the liquidations value and volume for each day. A total of **11.7 million was liquidated across 2367 addresses** during this time period. Also since liquidations depend on the price volatility of LUNA you could see a increase in liquidations during the period of May 19 to 24.Also top liquidators and liquidations are listed below.
  
-*This is an interactive dashboard*
+#######This is an interactive dashboard
 
 <iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiN2Q1NmNiMmEtMzNlNy00NTc5LWExODUtYmM2OGU4MzcxZDcyIiwidCI6ImIyNzI1YWM4LTMyY2MtNDhjZS1iYTdmLTc4MmFlYjQxNTUwYSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
@@ -14,6 +14,8 @@ Below dashboard shows the liquidations value and volume for each day. A total of
 
 
 #### Developer Notes
+
+Here we look into how we have decoded a sample transaction 
 
 ```sql
 SELECT b.block_timestamp::DATE as block_date,
@@ -37,10 +39,12 @@ SELECT b.block_timestamp::DATE as block_date,
 
 Link to Query : https://app.flipsidecrypto.com/velocity/queries/deb8a749-ae67-49b6-96b7-baf2df6fc391
 
-Link to Sample Tansaction : https://finder.terra.money/columbus-4/tx/E53C5A191EF241B420B24CBEEFFF180FF2F54CD6163881D4739D1564245BE77B
 
 
+
+
+##### Useful Links
 https://docs.anchorprotocol.com/smart-contracts/liquidations/liquidation-contract
 
 
-![Screen Shot 2021-07-02 at 5 17 09 PM](https://user-images.githubusercontent.com/86668287/124346339-d878c600-dbfb-11eb-99ee-25df2f7ca690.png)
+
