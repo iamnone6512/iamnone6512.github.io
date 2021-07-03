@@ -1,9 +1,17 @@
 
 ## 12. [Hard] Liquidations on Anchor
 
+Here we take a look into liquidations that has happened on Anchor portocol between April and June months. An user can supply collateral to Anchor and borrow US, once the loan postion reaches below a safe risk ratio of 0.8 the postion is liquidated. Liquidators submit bids to the liquidation contract to liquidate the laon postions. Once the the bid is executed successfully the position is liquidated. Till successful liquidation the liquidators can also retract the bids.
+
+Below dashboard shows the liquidations value and volume for each day and also top liduidators and liquidations.
+
+ 
 
 <iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiN2Q1NmNiMmEtMzNlNy00NTc5LWExODUtYmM2OGU4MzcxZDcyIiwidCI6ImIyNzI1YWM4LTMyY2MtNDhjZS1iYTdmLTc4MmFlYjQxNTUwYSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
+
+<script src="https://widgets.coingecko.com/coingecko-coin-price-chart-widget.js"></script>
+<coingecko-coin-price-chart-widget  coin-id="terra-luna" currency="usd" height="600" locale="en" width="350"></coingecko-coin-price-chart-widget>
 
 ```sql
 SELECT b.block_timestamp::DATE as block_date,
