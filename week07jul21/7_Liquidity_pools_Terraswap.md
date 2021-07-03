@@ -1,6 +1,6 @@
 ## 7. [Hard] Liquidity Pools on TerraSwap
 
-The dashboard shows the volume of swaps in TerraSwap for the period from April to June. You can clearly see the **period from mid May marks a clear upward trend in the both the number of swaps and also the addresses** interacting with TerraSwap. Also **LUNA-UST pair accounts for more than 75% of the swap volume.**  
+The dashboard shows the volume of swaps in TerraSwap for the period from April to June. You can clearly see the **period from mid May marks a clear upward trend in the both the volume of swaps and also the addresses** interacting with TerraSwap. Also **LUNA-UST pair accounts for more than 75% of the swap volume.**  
  
 ###### Please Note: This is an interactive dashboard 
 
