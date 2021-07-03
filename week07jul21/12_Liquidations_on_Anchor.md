@@ -1,7 +1,7 @@
 
 ## 12. [Hard] Liquidations on Anchor
 
-Here we take a look into liquidations that has happened on Anchor portocol between April and June months. An user can supply collateral to Anchor and borrow UST stablecoin, once the loan postion reaches below a safe risk ratio of 0.8 the postion is liquidated. Liquidators submit bids to the liquidation contract to liquidate the laon postions. Once the the bid is executed successfully the position is liquidated. Till successful liquidation the liquidators can also retract the bids.
+Here we take a look into liquidations that has happened on Anchor portocol between April and June months. An user can supply collateral to Anchor and borrow UST stablecoin, once the loan postion falss below a safe risk ratio of 0.8 the postion is liquidated. Liquidators can submit bids to the liquidation contract to liquidate the loan postions. Once the the bid is executed successfully the position is liquidated. Till successful liquidation the liquidators can also retract the bids.
 
 Below dashboard shows the liquidations value and volume for each day. A total of **11.7 million was liquidated across 2367 addresses** during this time period. Also since liquidations depend on the price volatility of LUNA you could see a increase in liquidations during the period of May 19 to 24.Also top liquidators and liquidations are listed below.
  
@@ -15,7 +15,9 @@ Below dashboard shows the liquidations value and volume for each day. A total of
 
 #### Developer Notes
 
-Here we look into how we to decode a sample transaction. Since a liquidator can submit and retract bids 
+Here we look into how we to decode a sample transaction. Since a liquidator can submit and retract bids and since not all bids are accepted we look at only sids that has successfully liquidated the position.
+
+Link to the Sample Tansaction : https://finder.terra.money/columbus-4/tx/E53C5A191EF241B420B24CBEEFFF180FF2F54CD6163881D4739D1564245BE77B
 
 ```sql
 SELECT b.block_timestamp::DATE as block_date,
