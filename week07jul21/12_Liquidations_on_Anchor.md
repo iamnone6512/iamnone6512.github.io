@@ -56,8 +56,8 @@ Link to Query : <https://app.flipsidecrypto.com/velocity/queries/deb8a749-ae67-4
 
 
 ##### Useful Links
-Anchor Liquidation Contract Docs : <https://docs.anchorprotocol.com/smart-contracts/liquidations/liquidation-contract>
+###### Anchor Liquidation Contract Docs : <https://docs.anchorprotocol.com/smart-contracts/liquidations/liquidation-contract>
 
-Sample Tansaction : <https://finder.terra.money/columbus-4/tx/E53C5A191EF241B420B24CBEEFFF180FF2F54CD6163881D4739D1564245BE77B>
+###### Sample Tansaction : <https://finder.terra.money/columbus-4/tx/E53C5A191EF241B420B24CBEEFFF180FF2F54CD6163881D4739D1564245BE77B>
 
 
