@@ -3,7 +3,7 @@
 
 Here we take a look into liquidations that has happened on Anchor protocol between April and June months. An user can supply collateral to Anchor and borrow UST stablecoin, if the loan postion falls below a safe risk ratio of 0.8 then the postion is liquidated. Liquidators can submit bids to the liquidation contract to liquidate the loan postions. Once the bid is executed successfully the position is liquidated. Till successful liquidation the liquidators can also retract the bids.  
 
-Below dashboard shows the liquidations value and volume. A total of **11.7 million was liquidated across 2367 addresses in 3723 liquidations** during this time period. Also since liquidations depend on the price volatility of LUNA you could see a increase in liquidations during the period of May 19 to 24. Also the **top 10 liquidations account for more than 60% of the total liquidation value.**  
+Below dashboard shows the liquidations value and volume. A total of **11.7 million was liquidated across 2367 addresses in 3723 liquidations** during this time period. Also since liquidations depend on the price volatility of LUNA you could see a increase in liquidations during the period of May 19 to 24. Also the **top 10 borrowers account for more than 60% of the total liquidation value.**  
  
 ###### Please Note: This is an interactive dashboard  
 
