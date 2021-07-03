@@ -47,7 +47,7 @@ from
       b.msg_value : contract = 'terra1w9ky73v4g7v98zzdqpqgf3kjmusnx4d4mvnac6' 
       AND UPPER(b.tx_status)= 'SUCCEEDED' 
       AND b.block_timestamp :: DATE BETWEEN '2021-04-01' 
-      AND '2021-07-03'
+      AND '2021-06-30'
   ) b ON a.tx_id = b.tx_id 
   AND a.msg_value : execute_msg.liquidate_collateral.borrower is not null
 ```
