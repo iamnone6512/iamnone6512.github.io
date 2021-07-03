@@ -1,3 +1,4 @@
+![Screen Shot 2021-07-02 at 5 17 09 PM](https://user-images.githubusercontent.com/86668287/124346339-d878c600-dbfb-11eb-99ee-25df2f7ca690.png)
 ## 12. [Hard] Liquidations on Anchor
 
 
