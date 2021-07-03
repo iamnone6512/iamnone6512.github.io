@@ -19,17 +19,14 @@ Below dashboard shows the liquidations value and volume for each day. A total of
 Here we look into how we to decode a sample transaction. Since a liquidator can submit and retract bids and since not all bids are accepted we look at only bids that has successfully liquidated the position.
 
 
-In terra.msgs table we look for **execute_msg: liquidate_collateral** message corresponding to submit bid to mark the transaction as a succesful liquidation.  
+In terra.msgs table we look for **execute_msg: liquidate_collateral** message corresponding to submit bid to mark the transaction as a succesful liquidation. This is identified using > msg_value : execute_msg.liquidate_collateral.borrower is not null 
 
 ##### SQL  
 ```sql
 SELECT 
   b.block_timestamp :: DATE as block_date, 
   a.tx_id, 
-  trim(
-    a.msg_value : execute_msg.liquidate_collateral.borrower, 
-    '"'
-  ) as borrower, 
+  trim(a.msg_value : execute_msg.liquidate_collateral.borrower, '"') as borrower, 
   trim(a.msg_value : sender, '"') as liquidator, 
   b.liq_amount / 1000000 as liq_amount, 
   b.currency 
