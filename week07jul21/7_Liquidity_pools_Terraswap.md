@@ -1,5 +1,6 @@
 ## 7. [Hard] Liquidity Pools on TerraSwap
 
+The dashboard shows the volume of swaps in TerraSwap for the period od April to June. You can clearly see the **period from mid May marks a clear upward trend in the both the number of swaps and also the addresses** interacting with TerraSwap.
  
 ###### Please Note: This is an interactive dashboard 
 
