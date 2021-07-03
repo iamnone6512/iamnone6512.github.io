@@ -10,7 +10,7 @@ Below dashboard shows the liquidations value and volume. A total of **11.7 milli
 
 <iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiN2Q1NmNiMmEtMzNlNy00NTc5LWExODUtYmM2OGU4MzcxZDcyIiwidCI6ImIyNzI1YWM4LTMyY2MtNDhjZS1iYTdmLTc4MmFlYjQxNTUwYSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
-##### LUNA price chart
+#### LUNA price chart
 
 As you can see increase in liquidations overlap with the periods of increased price volatility.  
 ![Screen Shot 2021-07-03 at 2 54 44 PM](https://user-images.githubusercontent.com/86668287/124350684-ae330280-dc13-11eb-8978-ce1df3324754.png)
