@@ -49,15 +49,14 @@ from
   AND a.msg_value : execute_msg.liquidate_collateral.borrower is not null
 ```
 
-Link to Query : <https://app.flipsidecrypto.com/velocity/queries/deb8a749-ae67-49b6-96b7-baf2df6fc391>
 
 
 
 
 
 ##### Useful Links
+###### Link to Query : <https://app.flipsidecrypto.com/velocity/queries/deb8a749-ae67-49b6-96b7-baf2df6fc391>
 ###### Anchor Liquidation Contract Docs : <https://docs.anchorprotocol.com/smart-contracts/liquidations/liquidation-contract>
-
 ###### Sample Tansaction : <https://finder.terra.money/columbus-4/tx/E53C5A191EF241B420B24CBEEFFF180FF2F54CD6163881D4739D1564245BE77B>
 
 
