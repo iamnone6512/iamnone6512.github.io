@@ -3,7 +3,7 @@
 A total of 11 million bLUNA was burnt by 22k addresses in the month of June with Instant Burn accounting for 95% of the volume. The swap volume is equally divided between  Anchor and  Terraswap.  
 
 ###### Please Note: This is an interactive dashboard 
-<iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiODVkMTBiZDUtNGE1OS00Njc1LTlmNTUtYjJlZDcwZmUyNGY5IiwidCI6ImIyNzI1YWM4LTMyY2MtNDhjZS1iYTdmLTc4MmFlYjQxNTUwYSJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiODVkMTBiZDUtNGE1OS00Njc1LTlmNTUtYjJlZDcwZmUyNGY5IiwidCI6ImIyNzI1YWM4LTMyY2MtNDhjZS1iYTdmLTc4MmFlYjQxNTUwYSJ9" frameborder="0" allowFullScreen="true"></iframe>\
 
   
 Of the 22K addresses that had burnt Luna their balances are shown below. The addresses the used Instant Burn have 6x more balances.
