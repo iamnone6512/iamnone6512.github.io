@@ -1,4 +1,4 @@
-## 7. [Hard] Liquidity Pools on TerraSwap
+## 11. [Easy] Burn bLuna Burn
 
 A total of 11 million bLUNA was burnt by 22k addresses in the month of June with Instant Burn accounting for 95% of the volume. The swap volume is equally divided between  Anchor and  Terraswap.  
 
