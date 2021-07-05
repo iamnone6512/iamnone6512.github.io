@@ -15,9 +15,6 @@ Of the 22K addresses that had burnt Luna their balances are shown below. The add
 
 
 
-/
-
-adtsdtatdad
 
 ###### Link to Query : <https://app.flipsidecrypto.com/velocity/queries/6e9428d1-1d92-4f40-9633-efbe0b2c3648>
 ###### Link to Query : <https://app.flipsidecrypto.com/velocity/queries/88a96bf1-2d85-4aad-90e2-6767838118f4>
