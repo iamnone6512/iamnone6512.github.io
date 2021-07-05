@@ -9,7 +9,7 @@
 trtfdaf
 
 
-<iframe src="https://velocity-app.flipsidecrypto.com/velocity/visuals/d3d8deac-0797-4f94-8a23-64416c8399c1/6e9428d1-1d92-4f40-9633-efbe0b2c3648" width="1024" height="612" />
+<iframe src="https://velocity-app.flipsidecrypto.com/velocity/visuals/d3d8deac-0797-4f94-8a23-64416c8399c1/6e9428d1-1d92-4f40-9633-efbe0b2c3648" width="800" height="600" />
 
 
 #### Developer Notes  
