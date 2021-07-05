@@ -9,7 +9,8 @@ A total of 11 million bLUNA was burnt by 22k addresses in the month of June with
 Of the 22K addresses that had burnt Luna their balances are shown below. The addresses the used Instant Burn have 6x more balances.
 
 
-<iframe src="https://velocity-app.flipsidecrypto.com/velocity/visuals/d3d8deac-0797-4f94-8a23-64416c8399c1/6e9428d1-1d92-4f40-9633-efbe0b2c3648" width="800" height="400" />
+![Screen Shot 2021-07-05 at 12 47 00 PM](https://user-images.githubusercontent.com/86668287/124432370-2e31a780-dd8f-11eb-97ef-87d1e56498e4.png)
+
 
 ###### Link to Query : <https://app.flipsidecrypto.com/velocity/queries/6e9428d1-1d92-4f40-9633-efbe0b2c3648>
 ###### Link to Query : <https://app.flipsidecrypto.com/velocity/queries/88a96bf1-2d85-4aad-90e2-6767838118f4>
