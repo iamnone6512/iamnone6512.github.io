@@ -1,6 +1,6 @@
 ## Journey into the Ether
 
-This repo tracks my journey into blockchain analysis. 
+Repo tracking my journey into blockchain analysis. 
 
 #### Links to Analysis : 
 
