@@ -28,13 +28,14 @@ We look in detailed how we have decoded the transactions to arrive at these numb
 
 The deposit & withdraw collateral has two sets of events in the transaction, the one which deposits/ withdraws the collateral and the other one locks/ unlocks the collateral in the Anchor Overseer Contract. We look for the lock/ unlock collateral message to get the amount deposited. We join with terra.oracle_prices to get prices in USD.
 
-> msg_value : execute_msg = 'lock_collateral'  or  msg_value : execute_msg = 'unlock_collateral'
+> msg_value : execute_msg = 'lock_collateral'  ||  msg_value : execute_msg = 'unlock_collateral'
+
 
 ##### Borrow & Repay Amounts
   
 Calculating borrow and repay amounts is straigforward as we look for the following messges 
 
-> msg_value : execute_msg = 'borrow_stable' or msg_value : execute_msg = 'repay_stable'  
+> msg_value : execute_msg = 'borrow_stable' || msg_value : execute_msg = 'repay_stable'  
 
 #### Links
 ###### Repayments Query : <https://app.flipsidecrypto.com/velocity/queries/7fb417fa-1226-4fcd-9ba7-4cf3350dc5a3>
