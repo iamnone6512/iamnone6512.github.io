@@ -1,11 +1,13 @@
 ## 18. Anchor Repayments
 
-The below dashboard shows the current state of the Anchor Protocol with **current outstanding debt at 250M UST.** The **current collateral deposits stand at close to 1 Billion UST with a LTV value of 25%.** The dashboard also visualises daily borrows and repayments. During the period between May 19th to 23rd the repayments surpassed borrows due to crash in LUNA prices.   
+The below dashboard shows the current state of the Anchor Protocol with **current outstanding debt at 250M UST.** The **current collateral deposits stand at close to 1 Billion UST with a LTV ratio of 25%.** The dashboard also visualises daily borrows and repayments. During the period between May 19th to 23rd the repayments surpassed borrows due to crash in LUNA prices.   
 
 <iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiNGFhMDcxNjUtYWZhMC00MDcwLWI3NjYtMjg2YWUzMDZmZTk1IiwidCI6ImIyNzI1YWM4LTMyY2MtNDhjZS1iYTdmLTc4MmFlYjQxNTUwYSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 
-#### LTV
+### LTV
+
+LTV ratio determines whether the protocol is sufficiently collateralized at all times to avoid default. The LTV is calculated as the ratio of value of deposits to the amount borrowed. The protocol has maintained a healthy ratio of around 30% till the May 19th price crash where the LTV ratio drops to 14%. As the price volatility has settled you can see the LTV ratio increasing from the bottom of mid May showing a marked increase in borrowers risk appetite.  
 
 <iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiMjhjYWFiOTktMDBlYi00NDA5LWE4NTEtNmM2ZGE1ZDViMGE4IiwidCI6ImIyNzI1YWM4LTMyY2MtNDhjZS1iYTdmLTc4MmFlYjQxNTUwYSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
