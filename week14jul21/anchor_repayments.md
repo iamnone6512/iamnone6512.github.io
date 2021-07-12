@@ -22,7 +22,7 @@ A lending protocol has four major steps in its lifecycle,
 * Repay Amount (Partial or Full)
 * Withdraw Collateral (Partial or Full)
 
-We look in detailed how we have decoded the transactions to arrive at these numbers,
+We look in detail how we have decoded the transactions to arrive at these numbers,
   
 ##### Deposit & Withdraw Collaterals  
 
@@ -33,7 +33,7 @@ The deposit & withdraw collateral has two sets of events in the transaction, the
 
 ##### Borrow & Repay Amounts
   
-Calculating borrow and repay amounts is straigforward as we look for the following messges 
+Calculating borrow and repay amounts is straightforward as we look for the following messages 
 
 > msg_value : execute_msg = 'borrow_stable' || msg_value : execute_msg = 'repay_stable'  
 
