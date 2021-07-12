@@ -7,19 +7,41 @@ The below dashboard shows the current state of the Anchor Protocol with **curren
 
 ### LTV
 
-LTV ratio determines whether the protocol is sufficiently collateralized at all times to avoid default. The LTV is calculated as the ratio of value of deposits to the amount borrowed. The protocol has maintained a healthy ratio of around 30% till the May 19th price crash where the LTV ratio drops to 14%. As the price volatility has settled you can see the LTV ratio increasing from the bottom of mid May showing a marked increase in borrowers risk appetite.  
+LTV ratio determines whether the protocol is sufficiently collateralized at all times to avoid default. The LTV is calculated as the ratio of value of deposits to the amount borrowed. The protocol has maintained a healthy ratio of around 30% till the May 19th price crash where the LTV ratio drops to 14%. As the price volatility has settled you can see the LTV ratio increasing from it's bottom in mid May showing a marked increase in borrowers risk appetite.  
 
-You can also see a marked increase in wallets interacting with Anchor protocol.  
+You can also see a marked increase in addresses interacting with Anchor protocol.  
 
 <iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiMjhjYWFiOTktMDBlYi00NDA5LWE4NTEtNmM2ZGE1ZDViMGE4IiwidCI6ImIyNzI1YWM4LTMyY2MtNDhjZS1iYTdmLTc4MmFlYjQxNTUwYSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
-Repayments Query : https://app.flipsidecrypto.com/velocity/queries/7fb417fa-1226-4fcd-9ba7-4cf3350dc5a3
+#### Developer Notes  
 
-LTV Query: https://app.flipsidecrypto.com/velocity/queries/8c3921fa-0422-4bcf-bbaf-e9a3e9ebb1c5
+A lending protocol has four major steps in its lifecycle,
+
+* Deposit Collateral
+* Borrow Amount
+* Repay Amount (Partial or Full)
+* Withdraw Collateral (Partial or Full)
+
+We look into how we have decoded the transactions to arrive at these numbers,
+  
+* Deposit Collateral
+
+The deposit collateral has two 
+
+![Screen Shot 2021-07-12 at 6 08 53 PM](https://user-images.githubusercontent.com/86668287/125288965-52b3f380-e33c-11eb-807f-3c6ddf569763.png)
+
+
+Sample Transaction : <https://finder.terra.money/columbus-4/tx/1520E5FC78430874E7CBD35617421590C2E9364752AF9FB98A64B479076A204F>
+
+
+#### Links
+###### Repayments Query : <https://app.flipsidecrypto.com/velocity/queries/7fb417fa-1226-4fcd-9ba7-4cf3350dc5a3>
+
+###### LTV Query: <https://app.flipsidecrypto.com/velocity/queries/8c3921fa-0422-4bcf-bbaf-e9a3e9ebb1c5>
 
 
 
-https://finder.terra.money/columbus-4/tx/1520E5FC78430874E7CBD35617421590C2E9364752AF9FB98A64B479076A204F
+
 
 https://finder.terra.money/columbus-4/tx/908DB612BB3222E4A3F05257D8EB45605EB45E48DA7035FC7281C4620B84E585
 
