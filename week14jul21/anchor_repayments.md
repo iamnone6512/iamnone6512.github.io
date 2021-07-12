@@ -1,6 +1,6 @@
-## Anchor Repayments
+## 18. Anchor Repayments
 
-
+The below dashboard shows the current state of the Anchor Protocol with current outstanding balance at circa 250M UST. The total collateral deposits stand at close to 1 Billion UST with a a LTV value of 25%.   
 <iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiNGFhMDcxNjUtYWZhMC00MDcwLWI3NjYtMjg2YWUzMDZmZTk1IiwidCI6ImIyNzI1YWM4LTMyY2MtNDhjZS1iYTdmLTc4MmFlYjQxNTUwYSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 
