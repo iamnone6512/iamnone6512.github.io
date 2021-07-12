@@ -26,7 +26,7 @@ We look in detailed how we have decoded the transactions to arrive at these numb
   
 ##### Deposit & Withdraw Collaterals  
 
-The deposit collateral has two sets of events in the transaction, the first one deposits the collateral and the second one locks the collateral in the Anchor Overseer Contract. We look for the lock collateral message to get the amount deposited. We also join with > terra.oracle_prices to get prices in USD.
+The deposit & withdraw collateral has two sets of events in the transaction, the one which deposits/ withdraws the collateral and the other one locks/ unlocks the collateral in the Anchor Overseer Contract. We look for the lock/ unlock collateral message to get the amount deposited. We join with terra.oracle_prices to get prices in USD.
 
 > msg_value : execute_msg = 'lock_collateral'  or  msg_value : execute_msg = 'unlock_collateral'
 
