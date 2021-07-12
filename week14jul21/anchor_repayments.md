@@ -9,6 +9,8 @@ The below dashboard shows the current state of the Anchor Protocol with **curren
 
 LTV ratio determines whether the protocol is sufficiently collateralized at all times to avoid default. The LTV is calculated as the ratio of value of deposits to the amount borrowed. The protocol has maintained a healthy ratio of around 30% till the May 19th price crash where the LTV ratio drops to 14%. As the price volatility has settled you can see the LTV ratio increasing from the bottom of mid May showing a marked increase in borrowers risk appetite.  
 
+You can also see a marked increase in wallets interacting with Anchor protocol.  
+
 <iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiMjhjYWFiOTktMDBlYi00NDA5LWE4NTEtNmM2ZGE1ZDViMGE4IiwidCI6ImIyNzI1YWM4LTMyY2MtNDhjZS1iYTdmLTc4MmFlYjQxNTUwYSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 Repayments Query : https://app.flipsidecrypto.com/velocity/queries/7fb417fa-1226-4fcd-9ba7-4cf3350dc5a3
