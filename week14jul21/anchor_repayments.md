@@ -24,20 +24,23 @@ A lending protocol has four major steps in its lifecycle,
 
 We look in detailed how we have decoded the transactions to arrive at these numbers,
   
-##### Deposit Collateral
+##### Deposit & Withdraw Collaterals  
 
-The deposit collateral has two sets of events in the transaction, the first one deposits the collateral and the second one locks the collateral in the Anchor Overseer Contract.
+The deposit collateral has two sets of events in the transaction, the first one deposits the collateral and the second one locks the collateral in the Anchor Overseer Contract. We look for the lock collateral message to get the amount deposited. We also join with > terra.oracle_prices to get prices in USD.
 
-> msg_value : execute_msg = 'lock_collateral'
+> msg_value : execute_msg = 'lock_collateral'  or  msg_value : execute_msg = 'unlock_collateral'
 
+##### Borrow & Repay Amounts
+  
+Calculating borrow and repay amounts is straigforward as we look for the following messges 
 
-
+> msg_value : execute_msg = 'borrow_stable' or msg_value : execute_msg = 'repay_stable'  
 
 #### Links
 ###### Repayments Query : <https://app.flipsidecrypto.com/velocity/queries/7fb417fa-1226-4fcd-9ba7-4cf3350dc5a3>
 ###### LTV Query: <https://app.flipsidecrypto.com/velocity/queries/8c3921fa-0422-4bcf-bbaf-e9a3e9ebb1c5>
 ######  Sample Transactions : 
-<https://finder.terra.money/columbus-4/tx/1520E5FC78430874E7CBD35617421590C2E9364752AF9FB98A64B479076A204F>
-<https://finder.terra.money/columbus-4/tx/908DB612BB3222E4A3F05257D8EB45605EB45E48DA7035FC7281C4620B84E585>
-<https://finder.terra.money/columbus-4/tx/206D4BA99EC4B49231BD09C1F1E181FFC7FF79DD03FB09C6652E94E6928A3F90>
-<https://finder.terra.money/columbus-4/tx/292F28C5E1B543C75391703B75970E51C9049D7A5645A964884A5770E3BD618E>
+###### <https://finder.terra.money/columbus-4/tx/1520E5FC78430874E7CBD35617421590C2E9364752AF9FB98A64B479076A204F>
+###### <https://finder.terra.money/columbus-4/tx/908DB612BB3222E4A3F05257D8EB45605EB45E48DA7035FC7281C4620B84E585>
+###### <https://finder.terra.money/columbus-4/tx/206D4BA99EC4B49231BD09C1F1E181FFC7FF79DD03FB09C6652E94E6928A3F90>
+###### <https://finder.terra.money/columbus-4/tx/292F28C5E1B543C75391703B75970E51C9049D7A5645A964884A5770E3BD618E>
