@@ -1,6 +1,6 @@
 ## 18. Anchor Repayments
 
-The below dashboard shows the current state of the Anchor Protocol.The dashboard also visualises total deposits,borrows and repayments.    
+The below dashboard shows the current state of the Anchor Protocol.The dashboard visualises total deposits,borrows and repayments.    
 
 ### Key Metrics    
 * 78M in bLUNA deposits valued at close to 1 Billion💰 🔥
