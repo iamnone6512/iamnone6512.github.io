@@ -10,7 +10,7 @@ The below dashboard shows the current state of Anchor Protocol.
 * LTV ratio is at a healthy 25.5 % ❇️ with 245 million 💰 outstanding debt.
 * So far, about 1.1 billion has been borrowed by 15K borrowers. 💰 🔥
 * Increase in protocol users in the last 30 days. 📈
-* The LTV fell to 14 percent on May 23rd due to crash in LUNA prices, indicating that borrowers were hesitant to take out loans.
+* The LTV fell to 14 percent on May 23rd due to market wide price crash, indicating that borrowers were hesitant to take out loans.
 
 <iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiNGFhMDcxNjUtYWZhMC00MDcwLWI3NjYtMjg2YWUzMDZmZTk1IiwidCI6ImIyNzI1YWM4LTMyY2MtNDhjZS1iYTdmLTc4MmFlYjQxNTUwYSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
