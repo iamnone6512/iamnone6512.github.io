@@ -4,10 +4,10 @@ The below dashboard shows the current state of the Anchor Protocol with **curren
 
 ### Key Metrics  
 * Deposits 🔺 in both bLUNA & USD with total deposits close to 1 billion USD 🔥
-* Uptrend in amount borrowed ⬆️
-* LTV ratio is at a healthy 25.5 % ❇️
+* Uptrend in amount borrowed 📈
+* LTV ratio is at a healthy 25.5 % ❇️ with 245 million outstanding debt.
 * So far 15K borrowers have borrowed close to 1.1 billion USD 🔥
-* 2X increase in addresses interacting with the protocol
+* 2X increase in addresses interacting with the protocol 📈
 
 <iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiNGFhMDcxNjUtYWZhMC00MDcwLWI3NjYtMjg2YWUzMDZmZTk1IiwidCI6ImIyNzI1YWM4LTMyY2MtNDhjZS1iYTdmLTc4MmFlYjQxNTUwYSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
