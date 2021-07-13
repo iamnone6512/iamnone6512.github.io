@@ -2,7 +2,7 @@
 
 Repo tracking my journey into blockchain analysis. 
 
-#### Links to Analysis : 
+#### Links to my Analysis : 
 
 ##### Week 07JUL21
 * ###### <https://iamnone6512.github.io/week07jul21/12_Liquidations_on_Anchor.html> 
