@@ -1,6 +1,6 @@
 ## 18. Anchor Repayments
 
-The below dashboard shows the current state of the Anchor Protocol with **current outstanding debt at 250M UST.** The **current collateral deposits stand at close to 1 Billion UST with a LTV ratio of 25%.** The dashboard also visualises daily borrows and repayments. During the period between May 19th to 23rd the repayments surpassed borrows due to crash in LUNA prices.   
+The below dashboard shows the current state of the Anchor Protocol with current outstanding debt at 250M UST. The current collateral deposits stand at close to 1 Billion UST with a LTV ratio of 25%. The dashboard also visualises daily borrows vs repayments. During the period between May 19th to 23rd the repayments surpassed borrows due to crash in LUNA prices.   
 
 ### Key Metrics  
 * Deposits 🔺 in both bLUNA & USD with total deposits close to 1 billion 💲 🔥
