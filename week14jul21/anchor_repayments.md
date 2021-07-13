@@ -1,6 +1,8 @@
 ## 18. Anchor Repayments
 
-The below dashboard shows the current state of the Anchor Protocol.The dashboard visualises total deposits,borrows and repayments.    
+The Anchor protocol defines a money market between a lender, looking to earn stable yields on their stablecoins, and a borrower, looking to borrow stablecoins on stakeable assets. To borrow stablecoins, the borrower locks up Bonded Assets (bAssets) as collateral , and borrows stablecoins below the protocol-defined LTV ratio. Currently bLuna is accepted as a collateral for borrowers to deposit and borrow stable coins upto a max LTV of 50%.
+
+The below dashboard shows the current state of Anchor Protocol borrowers.   
 
 ### Key Metrics    
 * 78M in bLUNA deposits valued at close to 1 Billion💰 🔥
