@@ -1,25 +1,25 @@
 ## 18. Anchor Repayments
 
-The Anchor protocol defines a money market between a lender, looking to earn stable yields on their stablecoins, and a borrower, looking to borrow stablecoins on stakeable assets. To borrow stablecoins, the borrower locks up Bonded Assets (bAssets) as collateral , and borrows stablecoins below the protocol-defined LTV ratio. Currently bLuna is accepted as a collateral for borrowers to deposit and borrow stable coins upto a max LTV of 50%.
+The Anchor protocol defines a money market between a lender, looking to earn stable yields on their stablecoins, and a borrower, looking to borrow stablecoins on stakeable assets. To borrow stablecoins, the borrower locks up Bonded Assets (bAssets) as collateral , and borrows stablecoins below the protocol-defined LTV ratio. Borrowers can currently use bLuna as collateral to deposit and borrow stable coins up to a maximum LTV of 50%.
 
 The below dashboard shows the current state of Anchor Protocol.   
 
 ### Key Metrics    
-* Borrowers have deposited 78M bLUNA as collateral valued at close to 1 Billion💰 🔥
+* Borrowers have put up 78 million bLUNA as collateral, which is worth over a billion dollars.💰 🔥
 * Uptrend in both amount borrowed and protocol usage 📈 
 * LTV ratio is at a healthy 25.5 % ❇️ with 245 million 💰 outstanding debt.
 * So far 15K borrowers have borrowed close to 1.1 billion 💰 🔥
 * 2X increase in addresses using with the protocol in the last 30 days 📈
-* Briefly during the period between May 19th to 23rd repayments surpassed borrows due to crash in LUNA prices.
+* Due to a drop in LUNA prices, repayments briefly exceeded borrowing between May 19th and 23rd.
 
 <iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiNGFhMDcxNjUtYWZhMC00MDcwLWI3NjYtMjg2YWUzMDZmZTk1IiwidCI6ImIyNzI1YWM4LTMyY2MtNDhjZS1iYTdmLTc4MmFlYjQxNTUwYSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 
 ### LTV
 
-LTV ratio determines whether the protocol is sufficiently collateralized at all times to avoid default. The LTV is calculated as the ratio of value of deposits to the amount borrowed. The protocol has maintained a healthy ratio of around 30% till the May 19th price crash where the LTV ratio drops to 14%. As the price volatility has settled you can see the LTV ratio increasing showing a marked increase in borrowers risk appetite.  
+The LTV ratio assesses whether the protocol is adequately collateralized to avoid default at all times. The LTV is computed as the ratio of the deposit value to the loan amount. The protocol maintained a healthy ratio of around 30% until the price crash on May 19th, when the LTV ratio dropped to 14%. As the price volatility has subsided, the LTV ratio has risen, indicating a significant increase in the risk appetite of the borrowers.
 
-You can also see a marked 2X increase in addresses interacting with Anchor protocol.  
+In addition, the number of addresses engaging with the Anchor protocol has increased by 2X. 
 
 <iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiMjhjYWFiOTktMDBlYi00NDA5LWE4NTEtNmM2ZGE1ZDViMGE4IiwidCI6ImIyNzI1YWM4LTMyY2MtNDhjZS1iYTdmLTc4MmFlYjQxNTUwYSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
