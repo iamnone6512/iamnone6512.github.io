@@ -12,7 +12,7 @@ The below dashboard shows the current state of Anchor Protocol.
 * Marked increase in protocol daily users in the last 30 days. 📈
 * The LTV fell to 14 percent on May 23rd due to market wide price crash, indicating that borrowers were hesitant to take out loans.
 
-<iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiNGFhMDcxNjUtYWZhMC00MDcwLWI3NjYtMjg2YWUzMDZmZTk1IiwidCI6ImIyNzI1YWM4LTMyY2MtNDhjZS1iYTdmLTc4MmFlYjQxNTUwYSJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiOWRmYjU3YjgtNTU2Ny00YmU1LWE1M2EtMTcyZDU1NWYzMzQ0IiwidCI6ImIyNzI1YWM4LTMyY2MtNDhjZS1iYTdmLTc4MmFlYjQxNTUwYSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 
 ### LTV
