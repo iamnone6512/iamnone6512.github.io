@@ -5,13 +5,11 @@ The Anchor protocol defines a money market between a lender, looking to earn sta
 The below dashboard shows the current state of Anchor Protocol.   
 
 ### Key Insights    
-* Borrowers have put up 78 million bLUNA as collateral, which is worth 600 million🔥
+* Borrowers have deposited 78 million bLUNA as collateral with a TVL of 600 million🔥
 * Both the amount borrowed and the use of protocol are on the rise. 📈 
-*
-*  💰 🔥
-* Marked increase in protocol daily users in the last 30 days. 📈
-* The LTV fell to 14 percent on May 23rd due to market wide price crash, indicating that borrowers were hesitant to take out loans.
+* Marked increase in protocol daily users in the last 30 days. 📈  
 
+###### Data refreshed till 9th July 2021
 <iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiOWRmYjU3YjgtNTU2Ny00YmU1LWE1M2EtMTcyZDU1NWYzMzQ0IiwidCI6ImIyNzI1YWM4LTMyY2MtNDhjZS1iYTdmLTc4MmFlYjQxNTUwYSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 
