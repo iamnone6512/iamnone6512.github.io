@@ -2,12 +2,7 @@
 
 The Anchor protocol defines a money market between a lender, looking to earn stable yields on their stablecoins, and a borrower, looking to borrow stablecoins on stakeable assets. To borrow stablecoins, the borrower locks up Bonded Assets (bAssets) as collateral , and borrows stablecoins below the protocol-defined LTV ratio. Borrowers can currently use bLuna as collateral to deposit and borrow stable coins up to a maximum LTV of 50%.
 
-The below dashboard shows the current state of Anchor Protocol.   
-
-### Key Insights    
-* Borrowers have deposited 78 million bLUNA as collateral with a TVL of 600 million🔥
-* Both the amount borrowed and the use of protocol are on the rise. 📈 
-* Marked increase in protocol daily users in the last 30 days. 📈  
+The below dashboard shows the current state of Anchor Protocol. Borrowers have deposited 78 million bLUNA as collateral with a TVL close to 600 million USD.Both the amount borrowed and the protocol users are on the rise.  
 
 ###### Data refreshed till 9th July 2021
 <iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiOWRmYjU3YjgtNTU2Ny00YmU1LWE1M2EtMTcyZDU1NWYzMzQ0IiwidCI6ImIyNzI1YWM4LTMyY2MtNDhjZS1iYTdmLTc4MmFlYjQxNTUwYSJ9" frameborder="0" allowFullScreen="true"></iframe>
@@ -18,7 +13,7 @@ The below dashboard shows the current state of Anchor Protocol.
 The LTV ratio assesses whether the protocol is adequately collateralized to avoid default at all times. The LTV is computed as the ratio of the deposit value to the loan amount. As the price volatility has subsided, the LTV ratio has risen, indicating a significant increase in the risk appetite of the borrowers.
 
 In addition, the number of addresses engaging with the Anchor protocol has increased in the last 30 days. 
-
+###### Data refreshed till 9th July 2021
 <iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiMThlZDZkNjEtYmJhMi00ODI3LTk2ZDktMzBmYjkxNGE1ZDhhIiwidCI6ImIyNzI1YWM4LTMyY2MtNDhjZS1iYTdmLTc4MmFlYjQxNTUwYSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 #### Developer Notes  
