@@ -5,10 +5,10 @@ The Anchor protocol defines a money market between a lender, looking to earn sta
 The below dashboard shows the current state of Anchor Protocol.   
 
 ### Key Insights    
-* Borrowers have put up 78 million bLUNA as collateral, which is worth close to billion dollars🔥
+* Borrowers have put up 78 million bLUNA as collateral, which is worth 600 million🔥
 * Both the amount borrowed and the use of protocol are on the rise. 📈 
-* LTV ratio is at a healthy 25.5 % ❇️ with 245 million 💰 outstanding debt.
-* So far, about 1.1 billion has been borrowed by 15K borrowers. 💰 🔥
+*
+*  💰 🔥
 * Marked increase in protocol daily users in the last 30 days. 📈
 * The LTV fell to 14 percent on May 23rd due to market wide price crash, indicating that borrowers were hesitant to take out loans.
 
