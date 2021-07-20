@@ -18,7 +18,12 @@ The most crucial issue to answer is how different protocols perform in terms of 
 <iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiYzM1ZjJiNzgtZTAwOS00NDc3LWExYWEtMzAzM2NkMWU5ZjBlIiwidCI6ImIyNzI1YWM4LTMyY2MtNDhjZS1iYTdmLTc4MmFlYjQxNTUwYSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 
-#### Developer Notes 
+#### Developer Notes
+
+* When an address shows for the first time in the balances table, it is referred to as a "new user."
+* When a "new user" interacts with the protocols for the first time, the first date/time of interaction are recorded.
+* The interactions are ordered by date/time for each address to build the hierarchy of interactions.
+
 
 #### Links
 ###### Sunburst Query : <https://app.flipsidecrypto.com/velocity/queries/4c939b9f-448e-4070-ab77-54125e1d6dd7>
