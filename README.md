@@ -11,3 +11,7 @@ Repo tracking my journey into blockchain analysis.
 
 ##### Week 14JUL21
 * ###### <https://iamnone6512.github.io/week14jul21/anchor_repayments.html> 
+
+##### Week 14JUL21
+* ###### <https://iamnone6512.github.io/week21jul21/21_New_User_Activity.html> 
+* ###### <https://app.flipsidecrypto.com/velocity/dashboard/24-hard-community-treasury-Y-Ddbq>
