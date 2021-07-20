@@ -2,12 +2,19 @@
 ## 22.New User Activity
 
 In this analysis, we look at new users that join Terra and how they engage with other protocols on the platform.  The three protocols Terraswap, Mirror, and Anchor are analyzed, as well as how the new users interact with them.  
+
 While the number of new Terra users has declined from 2K per month on average to 1K in June, the number of new users for these protocols has remained steady in May and June, showing user growth.  
 
+
 <iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiYWRkNjMzZjktMjVlOC00YWJmLThhMzMtNTM1ZjRjMjcxMGVjIiwidCI6ImIyNzI1YWM4LTMyY2MtNDhjZS1iYTdmLTc4MmFlYjQxNTUwYSJ9" frameborder="0" allowFullScreen="true"></iframe>
+  
+  
+
+###  
+
+The most crucial issue to answer is how different protocols perform in terms of user engagement and which protocols capture the most user engagement and hence TVL. You can choose between the months in the graphic below, which depicts the sequence of user interactions with the respective protocols. ## The Anchor protocol has taken 35% of the new user first interaction ## immediately after launch in March, demonstrating the power of a higher-yielding savings product.
 
 
-### Sunburst
 <iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiYzM1ZjJiNzgtZTAwOS00NDc3LWExYWEtMzAzM2NkMWU5ZjBlIiwidCI6ImIyNzI1YWM4LTMyY2MtNDhjZS1iYTdmLTc4MmFlYjQxNTUwYSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 
