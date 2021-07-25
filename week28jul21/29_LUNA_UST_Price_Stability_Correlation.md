@@ -17,7 +17,9 @@ SUM((BUY VS Sell ) * Volume)
 
 ### Price volatility of LUNA 
 
- 1. 10 day rolling standard deviation **How to calc??**
+ 1. 10 day rolling standard deviation 
+
+<iframe src="https://velocity-app.flipsidecrypto.com/velocity/visuals/1332c2c5-4e69-4797-aa44-52d5d5628330/8d186e43-ffda-477e-90e3-b7580f9226cb" width="800" height="600" />
 
 
 
