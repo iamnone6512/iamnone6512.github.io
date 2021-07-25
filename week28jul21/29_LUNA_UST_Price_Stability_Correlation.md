@@ -6,7 +6,7 @@
 2. Price Volatility
 
 
-<iframe src="https://velocity-app.flipsidecrypto.com/velocity/visuals/8aa904b5-517e-4525-bca2-5b16f682bf1c/8d186e43-ffda-477e-90e3-b7580f9226cb" width="800" height="400" />  
+
 
 
 
@@ -50,7 +50,7 @@ SUM((BUY VS Sell ) * Volume)
 ### Repeat for LUNA - KRT pair
   
 
-
+<iframe src="https://velocity-app.flipsidecrypto.com/velocity/visuals/8aa904b5-517e-4525-bca2-5b16f682bf1c/8d186e43-ffda-477e-90e3-b7580f9226cb" width="800" height="400" />  
 
 
 #### Developer Notes
