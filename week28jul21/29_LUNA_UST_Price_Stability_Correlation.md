@@ -4,7 +4,9 @@
 * Two factors determine the stability of Stable coin
 1. Orderflow -> Buy sell pressure
 2. Price Volatility
-3. 
+
+UST PEG
+<iframe src="https://velocity-app.flipsidecrypto.com/velocity/visuals/5d1b9fd6-09cb-4f8d-8d5f-8ad609fbf8b2/8d186e43-ffda-477e-90e3-b7580f9226cb" width="800" height="600" />
 
 
 ### Orderflow - Onchain Metrics LUNA - UST pair
