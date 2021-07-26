@@ -15,3 +15,6 @@ Repo tracking my journey into blockchain analysis.
 ##### Week 21JUL21
 * ###### <https://iamnone6512.github.io/week21jul21/21_New_User_Activity.html> 
 * ###### <https://app.flipsidecrypto.com/dashboard/24-hard-community-treasury-Y-Ddbq>
+
+##### Week 28JUL21
+* ###### <https://app.flipsidecrypto.com/dashboard/29-easy-luna-to-ust-price-to-stability-correlation-u_GO-1>
