@@ -18,3 +18,7 @@ Repo tracking my journey into blockchain analysis.
 
 ##### Week 28JUL21
 * ###### <https://app.flipsidecrypto.com/dashboard/29-easy-luna-to-ust-price-to-stability-correlation-u_GO-1>
+
+##### Week 04AUG21
+* ###### <https://app.flipsidecrypto.com/dashboard/31-easy-luna-price-volatility-IW5EgX>
+* 
