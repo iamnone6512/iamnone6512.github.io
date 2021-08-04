@@ -21,4 +21,7 @@ Repo tracking my journey into blockchain analysis.
 
 ##### Week 04AUG21
 * ###### <https://app.flipsidecrypto.com/dashboard/31-easy-luna-price-volatility-IW5EgX>
-* 
+* ###### <https://app.flipsidecrypto.com/dashboard/33-easy-anchor-collateral-ratio-Yev1n_>
+* ###### <https://app.flipsidecrypto.com/dashboard/anchor-deposits-CGzsiz>
+
+##### Week 11AUG21
