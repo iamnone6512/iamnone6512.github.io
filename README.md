@@ -25,3 +25,4 @@ Repo tracking my journey into blockchain analysis.
 * ###### <https://app.flipsidecrypto.com/dashboard/anchor-deposits-CGzsiz>
 
 ##### Week 11AUG21
+* ###### <https://iamnone6512.github.io/week11aug21/Yearn_Comp_USDC_strategy.html>
