@@ -14,4 +14,4 @@ The ‘Generic Leverage Compound Farm' is a USDC yVault strategy that accepts US
 
 
 ###### Link to Query : <>
-###### Link to Query : <>
+###### Link to Query : APY <https://app.flipsidecrypto.com/velocity/queries/a95f3831-fecd-4589-89e8-9944a9157089>
