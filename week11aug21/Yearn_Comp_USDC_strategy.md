@@ -27,7 +27,7 @@ Now we look in detail how the startegy works, the base assest for this strategy 
 The below dashboard shows the overall depostis in the strategy - 466 million USDC. It also shows the overals deposits split by deposit amount vs flash loans. You could see the leveraged flash loans exceeds the user deposits but since it is a single asset startegy the chances of liquidation are very minimal.
 
 
-
+.
 <iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiZDUxMjZkYmItZDYyNC00YmUwLWI5ZDgtZGU3NGZhNGQwODVmIiwidCI6ImIyNzI1YWM4LTMyY2MtNDhjZS1iYTdmLTc4MmFlYjQxNTUwYSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 Now we'll look at estimating the strategy's returns. We should compute the APY at the conclusion of each block, but we'll do it at the end of each day to keep things simple. Also  we don't use the cToken exchange rates for the calculation as the rates aren't linear when calculating the APY daily. 
@@ -48,5 +48,5 @@ As you can see the COMP governance token rewards make up for the bulk of the tot
 <iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiMmVlNTBkMDktMDk2Mi00ZWU4LTkwN2UtYzBjMDk2OTM5NTk2IiwidCI6ImIyNzI1YWM4LTMyY2MtNDhjZS1iYTdmLTc4MmFlYjQxNTUwYSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 
-###### Link to Query : <>
+###### Link to Query : DEPOSITS/BORROWS <https://app.flipsidecrypto.com/velocity/queries/74bc95d3-e426-4282-8c3e-988c2952f779>
 ###### Link to Query : APY <https://app.flipsidecrypto.com/velocity/queries/a95f3831-fecd-4589-89e8-9944a9157089>
