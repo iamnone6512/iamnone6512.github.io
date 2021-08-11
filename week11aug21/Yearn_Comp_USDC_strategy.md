@@ -30,6 +30,7 @@ The below dashboard shows the overall depostis in the strategy - 466 million USD
 
 <iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiZDUxMjZkYmItZDYyNC00YmUwLWI5ZDgtZGU3NGZhNGQwODVmIiwidCI6ImIyNzI1YWM4LTMyY2MtNDhjZS1iYTdmLTc4MmFlYjQxNTUwYSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
+Now we'll look at estimating the strategy's returns. We should compute the APY at the conclusion of each block, but we'll do it at the end of each day to keep things simple.
 
 <iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiMmVlNTBkMDktMDk2Mi00ZWU4LTkwN2UtYzBjMDk2OTM5NTk2IiwidCI6ImIyNzI1YWM4LTMyY2MtNDhjZS1iYTdmLTc4MmFlYjQxNTUwYSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
