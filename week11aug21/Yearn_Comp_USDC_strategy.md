@@ -50,3 +50,4 @@ As you can see the COMP governance token rewards make up for the bulk of the tot
 
 ###### Link to Query : DEPOSITS/BORROWS <https://app.flipsidecrypto.com/velocity/queries/74bc95d3-e426-4282-8c3e-988c2952f779>
 ###### Link to Query : APY <https://app.flipsidecrypto.com/velocity/queries/a95f3831-fecd-4589-89e8-9944a9157089>
+###### Decoded TX's[TX_Analysis.pdf](https://github.com/iamnone6512/iamnone6512.github.io/files/6965884/TX_Analysis.pdf)
