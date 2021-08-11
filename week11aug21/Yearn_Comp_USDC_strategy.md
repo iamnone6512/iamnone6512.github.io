@@ -30,7 +30,17 @@ The below dashboard shows the overall depostis in the strategy - 466 million USD
 
 <iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiZDUxMjZkYmItZDYyNC00YmUwLWI5ZDgtZGU3NGZhNGQwODVmIiwidCI6ImIyNzI1YWM4LTMyY2MtNDhjZS1iYTdmLTc4MmFlYjQxNTUwYSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
-Now we'll look at estimating the strategy's returns. We should compute the APY at the conclusion of each block, but we'll do it at the end of each day to keep things simple.
+Now we'll look at estimating the strategy's returns. We should compute the APY at the conclusion of each block, but we'll do it at the end of each day to keep things simple. Also  we don't use the cToken exchange rates for the calculation as the rates aren't linear when calculating the APY daily. 
+
+For each day we get the total deposits, borrows and COMP reward tokens. We are calculating the  APY the below dashboard as the following,
+
+* total deposits * supply APY / 365 gets the Supply rewards
+* total borrows * borrow APY / 365 gets the Borrow rewards
+* For COMP rewards we take the amount swapped into USDC as its rewards
+* total rewards = ( Supply rewards + COMP rewards ) - Borrow rewards
+* APY is calculated as (total rewards / user deposits from yVault) * 365
+
+As you can see the COMP governance token rewards make up for the bulk of the total rewards and the flash loans helps to leverage the deposits, increasing the overall APY.
 
 <iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiMmVlNTBkMDktMDk2Mi00ZWU4LTkwN2UtYzBjMDk2OTM5NTk2IiwidCI6ImIyNzI1YWM4LTMyY2MtNDhjZS1iYTdmLTc4MmFlYjQxNTUwYSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
