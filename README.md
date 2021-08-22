@@ -6,7 +6,7 @@ Repo tracking my journey into blockchain analysis.
 
 ##### Week 07JUL21
 * ###### <https://iamnone6512.github.io/week07jul21/12_Liquidations_on_Anchor.html> 
-* ###### <https://iamnone6512.github.io/week07jul21/7_Liquidity_pools_Terraswap.html>  ->  🏆 [Winner Best Terra Data Dashboards (https://blog.flipsidecrypto.com/best-terra-datadashboard-july-12/) 
+* ###### <https://iamnone6512.github.io/week07jul21/7_Liquidity_pools_Terraswap.html>  ->  🏆 [Winner Best Terra Data Dashboards](https://blog.flipsidecrypto.com/best-terra-datadashboard-july-12/) 
 * ###### <https://iamnone6512.github.io/week07jul21/11_Burn_bLuna.html>   
 
 ##### Week 14JUL21
@@ -25,7 +25,7 @@ Repo tracking my journey into blockchain analysis.
 * ###### <https://app.flipsidecrypto.com/dashboard/anchor-deposits-CGzsiz>
 
 ##### Week 11AUG21
-* ###### <https://iamnone6512.github.io/week11aug21/Yearn_Comp_USDC_strategy.html> ->  🏆 [Winner Best Yearn Data Dashboards] (https://blog.flipsidecrypto.com/yearn-data-dashboards-august-19/)
+* ###### <https://iamnone6512.github.io/week11aug21/Yearn_Comp_USDC_strategy.html> ->  🏆 [Winner Best Yearn Data Dashboards](https://blog.flipsidecrypto.com/yearn-data-dashboards-august-19/)
 
 ##### Week 25AUG21
 * ######  <https://iamnone6512.github.io/week25aug21/Opensea_Polygon_Fees.html>
