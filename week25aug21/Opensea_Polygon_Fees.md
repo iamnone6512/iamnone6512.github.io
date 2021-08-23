@@ -1,6 +1,6 @@
 ## 3. OpenSea Fees 
 
-Opensea is the OG marketplace for all digital items including NFT's. Opensea launched on Polygon Matic in July 2021 and here we look into the fees collected by Opensea. Opensea collects a flat 2.5% fees on the transaction and the below dashboard dissects the fees collected and the top 10 projects by fees on the Polygon network. While the fees can be collected in various tokens, upon analysing the transactions we figure out that all of the fees in ETH bar a negligible amount in DAI. The dashboard displays the fees in ETH & USD, below are the key highlights from our analysis.
+Opensea is the OG marketplace for all digital items (NFT's etc.). Opensea launched on Polygon Matic in July 2021 and here we look into the fees collected by Opensea. Opensea collects a flat 2.5% fees on the transaction and the below dashboard dissects the fees collected and the top 10 projects by fees on the Polygon network. While the fees can be collected in various tokens, upon analysing the transactions we figure out that all of the fees in ETH bar a negligible amount in DAI. The dashboard displays the fees in ETH & USD, below are the key highlights from our analysis.
 
 * The fees earned on the Polygon network are close to a million dollars until August 20th, 2021.
 * OpenSea on Polygon has processed 120K transactions, resulting in a fee collection of 409 ETH.
@@ -12,7 +12,7 @@ Opensea is the OG marketplace for all digital items including NFT's. Opensea lau
 
 
 <iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiMDU5NTM4ZjMtOTcyYi00MjBiLWE4YzYtNTg4OWIyNDNmYTM4IiwidCI6ImIyNzI1YWM4LTMyY2MtNDhjZS1iYTdmLTc4MmFlYjQxNTUwYSJ9" frameborder="0" allowFullScreen="true"></iframe>
-###### ETH value in the dashboard is static and doesn't filter on interactions.
+###### ETH value in the above dashboard is static and doesn't filter on interactions.
 
 .
 
