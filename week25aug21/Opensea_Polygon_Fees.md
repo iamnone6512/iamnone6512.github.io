@@ -16,11 +16,13 @@ Opensea is the OG marketplace for all digital items (NFT's etc.). Opensea launch
 
 .
 
-The most popular project on Opensea Polygon is ZED Horse, which has a median fee of 6.5 USD. The fees collected by various ZED Horse tokens are shown in the scatterplot below, with token id 766 being the most expensive, collecting $6000 in total fees.
-
+The most popular project on Opensea Polygon is ZED Horse, which has a median fee of 6.5 USD. The fees collected by various ZED Horse tokens are shown in the scatterplot below, with token id 766 being the most expensive, collecting $6000 in total fees. The most popular token is 74561, which has been sold 385 times.
 
 <iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiM2ZjNmM0YWItZTQzNy00MDUzLWE1MWItODZhMDlhNWI1Y2EyIiwidCI6ImIyNzI1YWM4LTMyY2MtNDhjZS1iYTdmLTc4MmFlYjQxNTUwYSJ9" frameborder="0" allowFullScreen="true"></iframe>
+
 #### Developer Notes
+
+To calculate the fees collected by OpenSea we must find the wallet that that OpenSea uses 
 
 #### Links
 ###### Link to Query : <https://app.flipsidecrypto.com/dashboard/open-sea-polygon-VW95Bn>
